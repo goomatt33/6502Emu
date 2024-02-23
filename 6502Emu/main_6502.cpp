@@ -44,7 +44,7 @@ struct CPU
 		mem.Initilize();
 	}
 
-	void Execute
+	//void Execute
 };
 
 int main()
